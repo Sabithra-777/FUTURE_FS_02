@@ -1,4 +1,4 @@
-import { useCart } from "../context/Cartcontext";
+import { useCart } from "../context/CartContext";
 import { Link } from "react-router-dom";
 
 // 💡 Unique colors for each button (cycled)
