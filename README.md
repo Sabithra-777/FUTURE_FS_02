@@ -10,7 +10,7 @@ This project is part of a full-stack internship task that covers product listing
 - useContext API
 
 ## ✅ Features
-- Product listing (20 items)
+- Product listing 
 - Add to cart functionality
 - Quantity control in cart (+ / -)
 - Live total price calculation
